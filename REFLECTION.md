@@ -1,0 +1,13 @@
+#Can I explain what my code does?
+I created a resume through this HTML code. I converted my job-ready communication i made for applying jobs as a webpage with this code. The sections i made in this resume are professional summary, education, my working experience as different semantic components like header, footer, main, and sections. Also i have provided a reference link of my professional profiles, like Github and my direct link to mail me through my email address, along with images and proper alt text. I ensured that accessibility is not compromised.
+
+
+#What was my coding process?
+I read all the requirements together in the beginning. Then i started the assignment and did according to the sequence of the steps given by the instructor. First i did project setup as told in requirements. Then I organized the semantic structure of the HTML. Later i filled the whole required content of the resume along with images with proper text and size. Also i provided the links for my professional profiles like of Github and email as required in Step 4. Then i searched AI for the SVG Graphics as requirements say that we can take help of the AI for finding SVG code. In next steps, I ensured that accessibility is proper, also fixed the mistakes in my code after checking for the provided W3C validator link and finalized the code. After completing everything, I reviewed final version and pushed it to the Github. 
+
+
+#What challenges did I have?
+I had to face various challenges during the assignment. I fixed some of them after finding the issues from the validator provided by the instructor, while I failed in one thing related to the creativity step in which i made the portfolio section. In that step i was going to attach the screenshot of the program i made with my basic python coding skills. But i failed because i wanted to add that below the bullet point text where i wrote basic python programming, but every time the image showed above that text, i tried a lot but failed. This was the challenge i faced during the assignment. I will ask my instructor about this failed attempt.
+
+#What would I do differently now?
+I will try to not to repeat the mistakes i did in this assignment. Even though that were not that major mistakes and was fixed, still i would try to not to repeat those mistakes. Moreover, I will ask my instructor about that image inserting which i failed to fix, which will help me in future assignments. 
